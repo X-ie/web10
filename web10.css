@@ -1,0 +1,192 @@
+.head{
+	width: 100%;
+	height: 100px;
+}
+.con{
+	width: 1200px;
+	margin: 0 auto;
+
+}
+.logo{
+	height: 100px;
+	width: 100px;
+	padding-left: 300px;
+	float: left;
+}
+.sousuo{
+	float: left;
+	margin-top: 30px;
+	height: 30px;
+	font-size: 20px;
+	color: rgba(191,191,191,1);
+	margin-left: 40px;
+	border-radius: 5px;
+}
+.logo1{
+	float: left;
+    border-radius: 5px;
+    margin-top: 30px;
+    width: 30px;
+    height: 32px;
+    border: 0;
+    background: #00A4FFFF url('photo/8.png')
+    no-repeat center center;
+}
+.headvau a{
+	float: left;
+	display: inline-block;
+	margin-right: 50px;
+	margin-top: 32px;
+	margin-left: 30px;
+	color: black;
+	height: 30px;
+}
+.headvau a:hover{
+	 color: red;
+	 border-bottom: 2px solid blue;
+}
+
+
+/*dier*/
+
+.con{
+	width: 100%;
+}
+.con1{
+	width: 1450px;
+	height: 500px;
+	margin: 0 auto;
+	position: relative;
+}
+.logo2{
+	width: 100%;
+	height: 500px;
+}
+.res{
+
+	height: 60px;
+	width: 220px;
+	position: absolute;
+	right: 100px;
+	top: 50px;
+}
+.dengru{
+	font-size: 12px;
+	margin-right: 30px;
+	padding-left: 20px;
+}
+/* ss*/
+.con1{
+	width: 100%;
+	height: 500px;
+}
+.cai{
+	width: 1300px;
+	margin: 0 auto;
+	padding-left: 230px;
+
+}
+.tu1{
+	height: 500px;
+	width: 500px;
+}
+.tu2{
+	height: 244px;
+	width: 250px;
+
+}
+.zuo{
+	float: left;
+	height: 500px;
+	width: 500px;
+	margin-right: 20px;
+	position: relative;
+}
+.you{
+	display: inline-block;
+	float: left;
+	height: 500px;
+	width: 700px;
+	margin-left: 20px;
+	position: relative;
+}
+.qie1{
+	position: absolute;
+	bottom: 3px;
+	left: 30%;
+    font-size: 40px;
+    color: red;
+    height: 50px;
+    opacity: 0.5;
+}
+.qie2{
+	position: absolute;
+	bottom: 260px;
+	left: 10%;
+	font-size: 20px;
+	color: red;
+	height: 20px;
+	opacity: 0.5;
+}
+.qie3{
+	position: absolute;
+	bottom: 260px;
+	left: 300px;
+	font-size: 20px;
+	color: red;
+	height: 20px;
+	opacity: 0.5;
+
+}
+.qie4{
+	position: absolute;
+	bottom: 12px;
+	left: 10%;
+	font-size: 20px;
+	color: red;
+	height: 20px;
+	opacity: 0.5;
+
+}
+.qie5{
+	position: absolute;
+	bottom: 12px;
+	left: 300px;
+	font-size: 20px;
+	color: red;
+	height: 20px;
+	opacity: 0.5;
+
+}
+/*ds*/
+.last{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+}
+.last1{
+	width: 1200px;
+	margin: 0 auto;
+}
+.zuo1{
+	width: 900px;
+}
+.zuo1 a{
+	color: white;
+	float: left;
+	margin-right: 15px;
+	padding-left: 50px;
+	padding-top: 40px;
+} 
+.p1{
+	color: white;
+}
+.you1{
+	float: left;
+	margin-left: 200px;
+}
+.qian{
+	padding-right: 50px;
+	width: 100px;
+	height: 94px;
+}
